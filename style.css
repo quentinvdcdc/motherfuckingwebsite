@@ -24,3 +24,16 @@ em{
 a:visited{
 	color: green;
 }
+
+.popup{
+	position: fixed; 
+	z-index: 2;
+	background-color: red;
+	text-align: center;
+	min-width: 50%
+
+}
+
+#popi{
+	opacity: 0;
+}
